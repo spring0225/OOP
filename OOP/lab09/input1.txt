@@ -1,0 +1,16 @@
+15
+ADAR       C    8
+Terry      M    4.7
+Carl       M    3.7
+Shan       P    1.4
+Peter      P    3.3
+Sali       M    5.5
+Anita      P    3.2
+Mindy      P    3
+Patrick    P    2.7
+Eason      P    2.5
+Ivan       P    1.8
+Mary       P    1.7
+Matar      M    8
+Mia        P    3.8
+Kate       P    3

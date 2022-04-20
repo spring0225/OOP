@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587039201 source:c:\users\user\desktop\lab4\lab4_template.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,12 @@
+11
+N    M    6
+E    M    2
+C    M    5
+I    C    54
+V    M    8
+E    M    7
+U    M    3
+O    M    9
+E    M    1
+L    M    10
+T    M    4

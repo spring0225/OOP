@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1592287278 source:c:\users\spring\lab2\main.cpp
+	"fun.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1592287278 c:\users\spring\lab2\fun.h
+

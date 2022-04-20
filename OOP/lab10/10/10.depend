@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1591274094 source:f:\oop\lab10\10\main.cpp
+	"dm.h"
+
+1591274334 f:\oop\lab10\10\dm.h
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+
+1591274250 source:f:\oop\lab10\10\dm.cpp
+	"dm.h"
+

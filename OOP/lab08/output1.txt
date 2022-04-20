@@ -1,0 +1,8 @@
+Class : ELECTRONICS
+    Amy Cindy Emma Kenny Susan Vivian Wade 
+Class : OOP
+    Hary Iris Jay Kenny Wade Yvonne Zoe 
+Class : DS
+    Ben Cindy Frank Gary Hary Kenny Mary Patty Rebecca Susan Teresa 
+Class : DM
+    Leo Mary Nichol Oliver Zora Sherry 
